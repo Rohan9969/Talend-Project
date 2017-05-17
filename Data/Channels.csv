@@ -1,0 +1,6 @@
+"CHANNEL_ID","CHANNEL_DESC","CHANNEL_CLASS","CHANNEL_TOTAL"
+"3","Direct Sales","Direct","Channel total"
+"9","Tele Sales","Direct","Channel total"
+"5","Catalog","Indirect","Channel total"
+"4","Internet","Indirect","Channel total"
+"2","Partners","Others","Channel total"
